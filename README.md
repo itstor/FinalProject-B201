@@ -22,7 +22,12 @@ _28 Februari 2022_
 1. Pembuatan konsep aplikasi **(Arrijal & Thoriq)**
 2. Sketsa UX aplikasi **(Arrijal & Thoriq)**
 
-## Related Repository
+_4 Maret 2022_
+
+1. Setup repository GitHub **(Thoriq)**
+2. Pembuatan UI aplikasi **(Arrijal)**
+
+## Related Repositories
 
 <a href="https://github.com/itstor/CollegeMatch-Flutter">Flutter App Repository</a> </br>
 <a href="https://github.com/itstor/CollegeMatch-Backend">Backend Repository</a>
