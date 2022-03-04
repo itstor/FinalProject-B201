@@ -1,3 +1,6 @@
 [submodule "CollegeMatch-Flutter"]
 	path = CollegeMatch-Flutter
 	url = https://github.com/itstor/CollegeMatch-Flutter
+[submodule "CollegeMatch-Backend"]
+	path = CollegeMatch-Backend
+	url = https://github.com/itstor/CollegeMatch-Backend
