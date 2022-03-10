@@ -6,6 +6,8 @@
 
 - Flutter
 - Firebase
+- Flask
+- Pandas
 
 ## Deskripsi proyek
 
@@ -26,6 +28,25 @@ _4 Maret 2022_
 
 1. Setup repository GitHub **(Thoriq)**
 2. Pembuatan UI aplikasi **(Arrijal)**
+
+_5 Maret 2022_
+
+1. Redesain UI aplikasi **(Thoriq)**
+2. Pembuatan template aplikasi flutter **(Thoriq)**
+
+_6 Maret 2022_
+
+1. Finalisasi UI aplikasi **(Arrijal & Thoriq)**
+2. Pengonsepan backend aplikasi **(Arrijal & Thoriq)**
+3. Penambahan fitur login dengan firebase **(Thoriq)**
+
+_9 Maret 2022_
+
+1. Pembuatan halaman welcome aplikasi **(Thoriq)**
+
+_10 Maret 2022_
+
+1. Pembuatan halaman login dan register **(Thoriq)**
 
 ## Related Repositories
 
