@@ -40,13 +40,21 @@ _6 Maret 2022_
 2. Pengonsepan backend aplikasi **(Arrijal & Thoriq)**
 3. Penambahan fitur login dengan firebase **(Thoriq)**
 
+_7 Maret 2022_
+1. Percobaaan Flask pada backend **(Arrijal)**
+
+_8 Maret 2022_
+1. Percobaan pemanggilan database Firebase ke dalam python **(Arrijal)**
+
 _9 Maret 2022_
 
 1. Pembuatan halaman welcome aplikasi **(Thoriq)**
+2. Pembuatan algoritma pencocokan **(Arrijal)**
 
 _10 Maret 2022_
 
 1. Pembuatan halaman login dan register **(Thoriq)**
+2. Penggabungan antara Flask, Firebase, dan Pandas **(Arrijal)**
 
 ## Related Repositories
 
