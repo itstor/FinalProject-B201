@@ -56,6 +56,10 @@ _10 Maret 2022_
 1. Pembuatan halaman login dan register **(Thoriq)**
 2. Penggabungan antara Flask, Firebase, dan Pandas **(Arrijal)**
 
+_11 Maret 2022_
+1. Penambahan fitur waiting list pada backend **(Arrijal)**
+
+
 ## Related Repositories
 
 <a href="https://github.com/itstor/CollegeMatch-Flutter">Flutter App Repository</a> </br>
