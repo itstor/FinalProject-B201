@@ -59,6 +59,10 @@ _10 Maret 2022_
 _11 Maret 2022_
 1. Penambahan fitur waiting list pada backend **(Arrijal)**
 
+_19 Maret 2022_
+1. Pembuatan halaman personality question **(Thoriq)**
+2. Penambahan pertanyaan ke database **(Arrijal)**
+
 
 ## Related Repositories
 
